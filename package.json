@@ -2,9 +2,9 @@
   "name": "react-crud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isaachiroman.github.io/todo-job",
+  "homepage": "https://isaachiroman.github.io/todo-job/",
   "dependencies": {
-    "gh-pages": "^2.1.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-id-generator": "^2.0.0",

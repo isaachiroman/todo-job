@@ -180,7 +180,7 @@ class App extends Component {
         <div className="container">
           <div className="row">
             <div className="col-sm-12 mt-3 mb-3 text-sm-center mx-auto">
-              <h2>HRM MANAGER</h2>
+              <h2>TODO JOB</h2>
             </div>
           </div>
           <div className="row">
