@@ -1,0 +1,22 @@
+Tawk_API.onLoad = function () {
+$ ('# tawkchat-container iframe'). Css ('margin-bottom', '45px')
+};
+
+
+
+
+let iframes = document.querySelectorAll("iframe[title='chat widget']")
+
+      for (let f of iframes) {
+        if (f.style.bottom === "auto") {
+          f.style.bottom = "150px"
+        } else {
+          const pxBottom = Number.parseInt(f.style.bottom)
+          f.style.bottom = pxBottom + 30 + "px"
+        }
+      }
+
+
+~zIe0l78
+
+https://sunsetsanato.com/wp-admin
